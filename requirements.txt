@@ -6,3 +6,5 @@ tensorflow
 joblib
 python-dotenv
 gunicorn
+sqlalchemy
+psycopg2-binary
